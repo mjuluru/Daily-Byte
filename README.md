@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Problems solved in 2022
 
@@ -18,3 +19,9 @@ Nov 02: Correct Capitalization
 Asked by Google
 Given a string, return whether or not it uses capitalization correctly. A string correctly uses capitalization if all letters are capitalized, no letters are capitalized, or only the first letter is capitalized.
 
+=======
+# Daily-Byte
+All the problems using Daily Byte website
+
+From October 30 '22
+>>>>>>> 242c1b374caa48704edae84be87393b33e1430da
