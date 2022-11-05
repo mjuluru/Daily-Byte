@@ -28,3 +28,8 @@ Nov 03: Add Binary
 Asked by Apple
 Given two binary strings (strings containing only 1s and 0s) return their sum (also as a binary string).
 Note: neither binary string will contain leading 0s unless the string itself is 0
+
+Nov 04: Longest Common Prefix
+Asked by Microsoft
+Given an array of strings, return the longest common prefix that is shared amongst all strings.
+Note: you may assume all strings only contain lowercase alphabetical characters.
